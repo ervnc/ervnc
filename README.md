@@ -1,6 +1,6 @@
 <h1 align="left"><b>Hey! I'm Evandro 👋</b></h1>
 
-<img align="right" height="300em" src="https://miro.medium.com/max/1400/1*YwZhsirF57tw2DdX3BlZWA.png">
+<img align="right" height="200em" src="https://miro.medium.com/max/1400/1*YwZhsirF57tw2DdX3BlZWA.png">
 <h3>About me:</h3>
 <p>📚 I’m currently learning React and React Native</p>
   
