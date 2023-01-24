@@ -1,17 +1,11 @@
-<div style="display: inline_block">
-  <h1 align="left"><b>Hey! I'm Evandro 👋</b></h1>
-  <img align="right" height="300em" src="https://miro.medium.com/max/1400/1*YwZhsirF57tw2DdX3BlZWA.png">
-</div>
+<h1 align="left"><b>Hey! I'm Evandro 👋</b></h1>
 
+<img align="right" height="300em" src="https://miro.medium.com/max/1400/1*YwZhsirF57tw2DdX3BlZWA.png">
 <h3>About me:</h3>
-
 <p>📚 I’m currently learning React and React Native</p>
-
-<div align="left">
-  <a href="https://github.com/ervnc">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ervnc&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true&hide=prs,issues&hide_border=true&border_radius=10"/>
-</div>
- 
+  
+<a href="https://github.com/ervnc"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=ervnc&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true&hide=prs,issues&hide_border=true&border_radius=10"/></a>
+  
 <div style="display: inline_block"><br>
   <h3>🔥 Skills</h3>
   <img align="center" alt="ervnc-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
