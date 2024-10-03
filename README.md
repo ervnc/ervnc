@@ -8,13 +8,7 @@
   
 <div style="display: inline_block"><br>
   <h3>🔥 Skills</h3>
-  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  <img align="center" alt="ervnc-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ervnc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="ervnc-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="ervnc-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="ervnc-TAILWINDCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="center" alt="ervnc-FIGMA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma,js,react,fortran,java,mysql,prisma,py" />
 </div>
   
 ##
