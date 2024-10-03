@@ -8,7 +8,7 @@
   
 <div style="display: inline_block"><br>
   <h3>🔥 Skills</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma,js,react,fortran,java,mysql,prisma,py,c" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma,js,react,vue,fortran,java,mysql,prisma,py,c" />
 </div>
   
 ##
